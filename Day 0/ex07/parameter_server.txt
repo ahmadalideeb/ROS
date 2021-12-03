@@ -1,0 +1,14 @@
+ali_deeb_turtle:
+  background_b: 255
+  background_g: 124
+  background_r: 69
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_localhost__33105: http://localhost:33105/
+rosversion: '1.15.13
+
+  '
+run_id: 0ec0baac-514e-11ec-80f7-19ca4807ec44

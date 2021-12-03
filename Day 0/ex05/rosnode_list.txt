@@ -1,0 +1,2 @@
+/ali_deeb_turtle
+/rosout

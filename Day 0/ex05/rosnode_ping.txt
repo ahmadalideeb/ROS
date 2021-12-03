@@ -1,0 +1,7 @@
+rosnode: node is [/ali_deeb_turtle]
+pinging /ali_deeb_turtle with a timeout of 3.0s
+xmlrpc reply from http://localhost:42633/	time=0.605822ms
+xmlrpc reply from http://localhost:42633/	time=0.948906ms
+xmlrpc reply from http://localhost:42633/	time=1.254559ms
+xmlrpc reply from http://localhost:42633/	time=0.909090ms
+xmlrpc reply from http://localhost:42633/	time=0.903845ms
